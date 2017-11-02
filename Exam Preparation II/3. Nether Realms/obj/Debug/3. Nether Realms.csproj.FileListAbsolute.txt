@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\bin\Debug\_3.Nether_Realms.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\bin\Debug\_3.Nether_Realms.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\bin\Debug\_3.Nether_Realms.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\obj\Debug\_3.Nether_Realms.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\obj\Debug\_3.Nether_Realms.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\3. Nether Realms\obj\Debug\3. Nether Realms.csprojResolveAssemblyReference.cache

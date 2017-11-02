@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\bin\Debug\_10.Srubsko_Unleashed.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\bin\Debug\_10.Srubsko_Unleashed.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\bin\Debug\_10.Srubsko_Unleashed.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\obj\Debug\10. Srubsko Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\obj\Debug\_10.Srubsko_Unleashed.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\10. Srubsko Unleashed\obj\Debug\_10.Srubsko_Unleashed.pdb

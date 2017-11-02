@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\bin\Debug\_1.Max_Sequence_of_Equal_Elements.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\obj\Debug\1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\obj\Debug\_1.Max_Sequence_of_Equal_Elements.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\1. Max Sequence of Equal Elements\obj\Debug\_1.Max_Sequence_of_Equal_Elements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\bin\Debug\_2.Lab_Match_Phone_Number.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\bin\Debug\_2.Lab_Match_Phone_Number.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\bin\Debug\_2.Lab_Match_Phone_Number.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\obj\Debug\2. Lab Match Phone Number.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\obj\Debug\_2.Lab_Match_Phone_Number.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\2. Lab Match Phone Number\obj\Debug\_2.Lab_Match_Phone_Number.pdb

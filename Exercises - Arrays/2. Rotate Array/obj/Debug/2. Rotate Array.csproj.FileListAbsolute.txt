@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\bin\Debug\_2.Rotate_Array.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\bin\Debug\_2.Rotate_Array.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\bin\Debug\_2.Rotate_Array.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\obj\Debug\2. Rotate Array.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\obj\Debug\_2.Rotate_Array.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\2. Rotate Array\obj\Debug\_2.Rotate_Array.pdb

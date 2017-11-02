@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\bin\Debug\_3.Practice_Chars_and_Strings.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\bin\Debug\_3.Practice_Chars_and_Strings.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\bin\Debug\_3.Practice_Chars_and_Strings.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\obj\Debug\3. Practice Chars and Strings.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\obj\Debug\_3.Practice_Chars_and_Strings.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\3. Practice Chars and Strings\obj\Debug\_3.Practice_Chars_and_Strings.pdb

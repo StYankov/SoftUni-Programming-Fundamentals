@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\obj\Debug\2. Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.pdb

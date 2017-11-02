@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\1. PhoneBook\obj\Debug\_1.PhoneBook.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\1. PhoneBook\obj\Debug\_1.PhoneBook.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\1. PhoneBook\bin\Debug\_1.PhoneBook.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\1. PhoneBook\bin\Debug\_1.PhoneBook.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\1. PhoneBook\bin\Debug\_1.PhoneBook.pdb

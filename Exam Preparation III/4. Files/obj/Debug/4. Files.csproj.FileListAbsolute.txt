@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\bin\Debug\_4.Files.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\bin\Debug\_4.Files.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\bin\Debug\_4.Files.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\obj\Debug\4. Files.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\obj\Debug\_4.Files.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\4. Files\obj\Debug\_4.Files.pdb

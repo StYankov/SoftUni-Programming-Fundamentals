@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\bin\Debug\Elevator.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\bin\Debug\Elevator.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\bin\Debug\Elevator.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\obj\Debug\Elevator.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Elevator\obj\Debug\Elevator.pdb

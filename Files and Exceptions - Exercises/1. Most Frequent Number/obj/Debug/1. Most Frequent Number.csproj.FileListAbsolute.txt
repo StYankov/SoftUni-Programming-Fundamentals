@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.pdb

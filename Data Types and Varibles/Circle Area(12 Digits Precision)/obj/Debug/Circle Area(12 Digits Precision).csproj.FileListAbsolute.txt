@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Circle Area(12 Digits Precision)\bin\Debug\Circle Area(12 Digits Precision).exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Circle Area(12 Digits Precision)\bin\Debug\Circle Area(12 Digits Precision).exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Circle Area(12 Digits Precision)\bin\Debug\Circle Area(12 Digits Precision).pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Circle Area(12 Digits Precision)\obj\Debug\Circle Area(12 Digits Precision).exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Circle Area(12 Digits Precision)\obj\Debug\Circle Area(12 Digits Precision).pdb

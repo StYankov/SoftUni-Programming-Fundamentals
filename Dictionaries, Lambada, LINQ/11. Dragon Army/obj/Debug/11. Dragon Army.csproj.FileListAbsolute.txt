@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\bin\Debug\_11.Dragon_Army.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\obj\Debug\11. Dragon Army.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\obj\Debug\_11.Dragon_Army.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\11. Dragon Army\obj\Debug\_11.Dragon_Army.pdb

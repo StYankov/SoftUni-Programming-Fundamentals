@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\3. Equal Sums\bin\Debug\_3.Equal_Sums.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\3. Equal Sums\bin\Debug\_3.Equal_Sums.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\3. Equal Sums\bin\Debug\_3.Equal_Sums.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\3. Equal Sums\obj\Debug\_3.Equal_Sums.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\3. Equal Sums\obj\Debug\_3.Equal_Sums.pdb

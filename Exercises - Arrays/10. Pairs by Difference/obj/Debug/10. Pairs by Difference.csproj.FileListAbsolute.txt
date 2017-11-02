@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

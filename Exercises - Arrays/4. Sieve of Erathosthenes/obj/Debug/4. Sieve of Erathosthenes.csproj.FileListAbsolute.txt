@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\4. Sieve of Erathosthenes\bin\Debug\_4.Sieve_of_Erathosthenes.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\4. Sieve of Erathosthenes\bin\Debug\_4.Sieve_of_Erathosthenes.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\4. Sieve of Erathosthenes\bin\Debug\_4.Sieve_of_Erathosthenes.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\4. Sieve of Erathosthenes\obj\Debug\_4.Sieve_of_Erathosthenes.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\4. Sieve of Erathosthenes\obj\Debug\_4.Sieve_of_Erathosthenes.pdb

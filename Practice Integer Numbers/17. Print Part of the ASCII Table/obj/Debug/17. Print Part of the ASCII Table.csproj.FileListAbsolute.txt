@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\obj\Debug\17. Print Part of the ASCII Table.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.pdb

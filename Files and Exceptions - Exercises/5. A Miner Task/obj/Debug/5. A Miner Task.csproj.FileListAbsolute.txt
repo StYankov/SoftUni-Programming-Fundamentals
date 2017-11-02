@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\5. A Miner Task\bin\Debug\_5.A_Miner_Task.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\5. A Miner Task\obj\Debug\_5.A_Miner_Task.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\5. A Miner Task\obj\Debug\_5.A_Miner_Task.pdb

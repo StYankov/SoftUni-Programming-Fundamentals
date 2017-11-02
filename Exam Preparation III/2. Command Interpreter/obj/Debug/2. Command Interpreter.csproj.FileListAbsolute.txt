@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\bin\Debug\_2.Command_Interpreter.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\bin\Debug\_2.Command_Interpreter.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\bin\Debug\_2.Command_Interpreter.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\obj\Debug\2. Command Interpreter.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\obj\Debug\_2.Command_Interpreter.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\2. Command Interpreter\obj\Debug\_2.Command_Interpreter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\bin\Debug\_7.Andrey_and_Billiard.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\obj\Debug\7. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\bin\Debug\_7.Andrey_and_Billiard.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\bin\Debug\_7.Andrey_and_Billiard.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\obj\Debug\_7.Andrey_and_Billiard.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\7. Andrey and Billiard\obj\Debug\_7.Andrey_and_Billiard.pdb

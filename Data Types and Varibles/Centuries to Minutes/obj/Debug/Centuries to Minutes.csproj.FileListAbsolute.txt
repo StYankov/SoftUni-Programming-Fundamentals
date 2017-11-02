@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Centuries to Minutes\bin\Debug\Centuries to Minutes.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Centuries to Minutes\obj\Debug\Centuries to Minutes.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Centuries to Minutes\obj\Debug\Centuries to Minutes.pdb

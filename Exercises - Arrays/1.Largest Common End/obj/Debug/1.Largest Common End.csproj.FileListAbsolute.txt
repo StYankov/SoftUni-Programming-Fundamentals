@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\bin\Debug\1.Largest Common End.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\bin\Debug\1.Largest Common End.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\bin\Debug\1.Largest Common End.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\obj\Debug\1.Largest Common End.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\obj\Debug\1.Largest Common End.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\1.Largest Common End\obj\Debug\1.Largest Common End.pdb

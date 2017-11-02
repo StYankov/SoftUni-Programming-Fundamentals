@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\7. Exchange Varible Names\bin\Debug\_7.Exchange_Varible_Names.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\7. Exchange Varible Names\bin\Debug\_7.Exchange_Varible_Names.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\7. Exchange Varible Names\bin\Debug\_7.Exchange_Varible_Names.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\7. Exchange Varible Names\obj\Debug\_7.Exchange_Varible_Names.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\7. Exchange Varible Names\obj\Debug\_7.Exchange_Varible_Names.pdb

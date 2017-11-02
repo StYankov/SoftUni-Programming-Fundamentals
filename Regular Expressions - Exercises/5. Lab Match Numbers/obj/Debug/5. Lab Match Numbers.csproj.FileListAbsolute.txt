@@ -1,0 +1,5 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Lab Match Numbers\bin\Debug\_5.Lab_Match_Numbers.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Lab Match Numbers\bin\Debug\_5.Lab_Match_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Lab Match Numbers\bin\Debug\_5.Lab_Match_Numbers.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Lab Match Numbers\obj\Debug\_5.Lab_Match_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Lab Match Numbers\obj\Debug\_5.Lab_Match_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\bin\Debug\_1.Lab_Match_Full_Name.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\bin\Debug\_1.Lab_Match_Full_Name.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\bin\Debug\_1.Lab_Match_Full_Name.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\obj\Debug\1. Lab Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\obj\Debug\_1.Lab_Match_Full_Name.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Lab Match Full Name\obj\Debug\_1.Lab_Match_Full_Name.pdb

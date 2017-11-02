@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\obj\Debug\3. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.pdb

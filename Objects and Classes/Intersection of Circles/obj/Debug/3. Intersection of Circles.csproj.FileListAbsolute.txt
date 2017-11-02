@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\bin\Debug\Intersection of Circles.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\obj\Debug\Intersection of Circles.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\Intersection of Circles\obj\Debug\Intersection of Circles.pdb

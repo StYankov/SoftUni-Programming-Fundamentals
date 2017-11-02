@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\9. Book Library\bin\Debug\_9.Book_Library.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\9. Book Library\bin\Debug\_9.Book_Library.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\9. Book Library\bin\Debug\_9.Book_Library.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\9. Book Library\obj\Debug\_9.Book_Library.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\9. Book Library\obj\Debug\_9.Book_Library.pdb

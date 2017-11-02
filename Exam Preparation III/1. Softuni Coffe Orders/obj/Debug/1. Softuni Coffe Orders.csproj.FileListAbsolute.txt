@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\bin\Debug\_1.Softuni_Coffe_Orders.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\bin\Debug\_1.Softuni_Coffe_Orders.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\bin\Debug\_1.Softuni_Coffe_Orders.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\obj\Debug\1. Softuni Coffe Orders.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\obj\Debug\_1.Softuni_Coffe_Orders.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation III\1. Softuni Coffe Orders\obj\Debug\_1.Softuni_Coffe_Orders.pdb

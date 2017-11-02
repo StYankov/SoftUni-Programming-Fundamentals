@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\bin\Debug\_8.Logs_Aggregator.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\obj\Debug\8. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\obj\Debug\_8.Logs_Aggregator.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\8. Logs Aggregator\obj\Debug\_8.Logs_Aggregator.pdb

@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\bin\Debug\_6.Max_Sequence_of_Increasing_Elements.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\bin\Debug\_6.Max_Sequence_of_Increasing_Elements.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\bin\Debug\_6.Max_Sequence_of_Increasing_Elements.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\obj\Debug\6. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\obj\Debug\_6.Max_Sequence_of_Increasing_Elements.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\obj\Debug\_6.Max_Sequence_of_Increasing_Elements.pdb
