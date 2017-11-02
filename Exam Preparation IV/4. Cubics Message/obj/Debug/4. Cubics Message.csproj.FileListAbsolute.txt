@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\bin\Debug\_4.Cubics_Message.exe.config
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\bin\Debug\_4.Cubics_Message.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\bin\Debug\_4.Cubics_Message.pdb
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\obj\Debug\4. Cubics Message.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\obj\Debug\4. Cubics Message.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\obj\Debug\_4.Cubics_Message.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\4. Cubics Message\obj\Debug\_4.Cubics_Message.pdb

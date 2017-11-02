@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\bin\Debug\_3.Football_Standings.exe.config
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\bin\Debug\_3.Football_Standings.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\bin\Debug\_3.Football_Standings.pdb
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\obj\Debug\3. Football Standings.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\obj\Debug\3. Football Standings.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\obj\Debug\_3.Football_Standings.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\3. Football Standings\obj\Debug\_3.Football_Standings.pdb

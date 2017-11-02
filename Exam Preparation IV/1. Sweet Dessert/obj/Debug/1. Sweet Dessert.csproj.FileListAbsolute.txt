@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\bin\Debug\_1.Sweet_Dessert.exe.config
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\bin\Debug\_1.Sweet_Dessert.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\bin\Debug\_1.Sweet_Dessert.pdb
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\obj\Debug\1. Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\obj\Debug\1. Sweet Dessert.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\obj\Debug\_1.Sweet_Dessert.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\1. Sweet Dessert\obj\Debug\_1.Sweet_Dessert.pdb

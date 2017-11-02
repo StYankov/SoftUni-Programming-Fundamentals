@@ -1,0 +1,6 @@
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\bin\Debug\_2.Array_Manipulator.exe.config
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\bin\Debug\_2.Array_Manipulator.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\bin\Debug\_2.Array_Manipulator.pdb
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\obj\Debug\2. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\obj\Debug\_2.Array_Manipulator.exe
+C:\Users\Stoil\source\repos\Exam Preparation IV\2. Array Manipulator\obj\Debug\_2.Array_Manipulator.pdb
