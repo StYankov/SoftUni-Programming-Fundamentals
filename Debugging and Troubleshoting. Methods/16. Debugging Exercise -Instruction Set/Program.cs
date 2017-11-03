@@ -6,7 +6,7 @@ class InstructionSet_broken
     {
         string opCode = Console.ReadLine();
 
-        while (opCode != "end")
+        while (opCode.ToLower() != "end")
         {
             string[] codeArgs = opCode.Split(' ');
 
@@ -15,33 +15,34 @@ class InstructionSet_broken
             {
                 case "INC":
                     {
-                        int operandOne = int.Parse(codeArgs[1]);
-                        result = operandOne++;
+                        long operandOne = long.Parse(codeArgs[1]);
+                        result = operandOne + 1; // change herwe
                         break;
                     }
                 case "DEC":
                     {
-                        int operandOne = int.Parse(codeArgs[1]);
-                        result = operandOne--;
+                        long operandOne = long.Parse(codeArgs[1]);
+                        result = operandOne - 1; // change
                         break;
                     }
                 case "ADD":
                     {
-                        int operandOne = int.Parse(codeArgs[1]);
-                        int operandTwo = int.Parse(codeArgs[2]);
+                        long operandOne = long.Parse(codeArgs[1]);
+                        long operandTwo = long.Parse(codeArgs[2]);
                         result = operandOne + operandTwo;
                         break;
                     }
                 case "MLA":
                     {
-                        int operandOne = int.Parse(codeArgs[1]);
-                        int operandTwo = int.Parse(codeArgs[2]);
-                        result = (long)(operandOne * operandTwo);
+                        long operandOne = long.Parse(codeArgs[1]);
+                        long operandTwo = long.Parse(codeArgs[2]);
+                        result = (long)operandOne * (long)operandTwo;
                         break;
                     }
             }
 
             Console.WriteLine(result);
+            opCode = Console.ReadLine(); // added
         }
     }
 }
