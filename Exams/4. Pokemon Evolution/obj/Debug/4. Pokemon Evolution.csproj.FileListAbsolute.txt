@@ -1,6 +1,0 @@
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\bin\Debug\_4.Pokemon_Evolution.exe.config
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\bin\Debug\_4.Pokemon_Evolution.exe
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\bin\Debug\_4.Pokemon_Evolution.pdb
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\obj\Debug\4. Pokemon Evolution.csprojResolveAssemblyReference.cache
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\obj\Debug\_4.Pokemon_Evolution.exe
-c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exams\4. Pokemon Evolution\obj\Debug\_4.Pokemon_Evolution.pdb
