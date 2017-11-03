@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\bin\Debug\_2.Hornet_Comm.exe.config
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\bin\Debug\_2.Hornet_Comm.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\bin\Debug\_2.Hornet_Comm.pdb
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\obj\Debug\2. Hornet Comm.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\obj\Debug\2. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\obj\Debug\_2.Hornet_Comm.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\2. Hornet Comm\obj\Debug\_2.Hornet_Comm.pdb

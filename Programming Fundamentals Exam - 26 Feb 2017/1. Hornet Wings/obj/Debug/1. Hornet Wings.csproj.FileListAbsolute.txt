@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\bin\Debug\_1.Hornet_Wings.exe.config
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\bin\Debug\_1.Hornet_Wings.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\bin\Debug\_1.Hornet_Wings.pdb
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\obj\Debug\1. Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\obj\Debug\1. Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\obj\Debug\_1.Hornet_Wings.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\1. Hornet Wings\obj\Debug\_1.Hornet_Wings.pdb

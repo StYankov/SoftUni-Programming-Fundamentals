@@ -1,0 +1,7 @@
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.exe.config
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\bin\Debug\_4.Hornet_Armada.pdb
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\obj\Debug\4. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\obj\Debug\4. Hornet Armada.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\obj\Debug\_4.Hornet_Armada.exe
+C:\Users\Stoil\source\repos\Programming Fundamentals Exam - 26 Feb 2017\4. Hornet Armada\obj\Debug\_4.Hornet_Armada.pdb
