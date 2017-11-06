@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.pdb

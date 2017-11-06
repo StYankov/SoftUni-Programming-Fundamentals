@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\bin\Debug\_8.Mentor_Group.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\obj\Debug\8. Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\obj\Debug\_8.Mentor_Group.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\8. Mentor Group\obj\Debug\_8.Mentor_Group.pdb

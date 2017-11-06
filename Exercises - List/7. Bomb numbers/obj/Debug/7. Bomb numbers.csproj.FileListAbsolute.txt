@@ -1,0 +1,5 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\7. Bomb numbers\bin\Debug\_7.Bomb_numbers.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\7. Bomb numbers\bin\Debug\_7.Bomb_numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\7. Bomb numbers\bin\Debug\_7.Bomb_numbers.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\7. Bomb numbers\obj\Debug\_7.Bomb_numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\7. Bomb numbers\obj\Debug\_7.Bomb_numbers.pdb

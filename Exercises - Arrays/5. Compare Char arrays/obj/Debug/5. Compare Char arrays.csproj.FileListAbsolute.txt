@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\bin\Debug\_5.Compare_Char_arrays.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\bin\Debug\_5.Compare_Char_arrays.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\bin\Debug\_5.Compare_Char_arrays.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\obj\Debug\_5.Compare_Char_arrays.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\obj\Debug\_5.Compare_Char_arrays.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\5. Compare Char arrays\obj\Debug\5. Compare Char arrays.csprojResolveAssemblyReference.cache

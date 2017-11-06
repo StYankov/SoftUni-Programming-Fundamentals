@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\bin\Debug\_5.Key_Replacer.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\obj\Debug\5. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\obj\Debug\_5.Key_Replacer.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\5. Key Replacer\obj\Debug\_5.Key_Replacer.pdb

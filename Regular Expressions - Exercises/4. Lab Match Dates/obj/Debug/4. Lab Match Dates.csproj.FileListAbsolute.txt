@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\bin\Debug\_4.Lab_Match_Dates.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\bin\Debug\_4.Lab_Match_Dates.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\bin\Debug\_4.Lab_Match_Dates.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\obj\Debug\4. Lab Match Dates.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\obj\Debug\_4.Lab_Match_Dates.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Lab Match Dates\obj\Debug\_4.Lab_Match_Dates.pdb

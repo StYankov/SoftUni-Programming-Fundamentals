@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

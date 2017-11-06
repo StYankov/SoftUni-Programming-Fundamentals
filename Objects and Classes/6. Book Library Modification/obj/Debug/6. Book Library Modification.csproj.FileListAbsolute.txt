@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\bin\Debug\_6.Book_Library_Modification.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\obj\Debug\6. Book Library Modification.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\6. Book Library Modification\obj\Debug\_6.Book_Library_Modification.pdb

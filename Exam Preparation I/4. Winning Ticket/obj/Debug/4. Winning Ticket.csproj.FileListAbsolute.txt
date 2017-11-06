@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\bin\Debug\_4.Winning_Ticket.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\bin\Debug\_4.Winning_Ticket.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\bin\Debug\_4.Winning_Ticket.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\obj\Debug\4. Winning Ticket.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\obj\Debug\_4.Winning_Ticket.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\4. Winning Ticket\obj\Debug\_4.Winning_Ticket.pdb

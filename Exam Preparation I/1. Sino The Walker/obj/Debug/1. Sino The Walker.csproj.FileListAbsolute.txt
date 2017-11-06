@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\bin\Debug\_1.Sino_The_Walker.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\bin\Debug\_1.Sino_The_Walker.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\bin\Debug\_1.Sino_The_Walker.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\obj\Debug\1. Sino The Walker.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\obj\Debug\_1.Sino_The_Walker.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation I\1. Sino The Walker\obj\Debug\_1.Sino_The_Walker.pdb

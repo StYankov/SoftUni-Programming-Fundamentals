@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\bin\Debug\_6.User_Logs.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\bin\Debug\_6.User_Logs.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\obj\Debug\6. User Logs.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\obj\Debug\_6.User_Logs.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\6. User Logs\obj\Debug\_6.User_Logs.pdb

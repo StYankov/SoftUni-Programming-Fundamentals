@@ -1,0 +1,3 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\String and Objects\bin\Debug\String and Objects.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\String and Objects\obj\Debug\String and Objects.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\String and Objects\obj\Debug\String and Objects.pdb

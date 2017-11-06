@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Triples of Latin Letters\bin\Debug\Triples of Latin Letters.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Triples of Latin Letters\obj\Debug\Triples of Latin Letters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Triples of Latin Letters\obj\Debug\Triples of Latin Letters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\bin\Debug\_6.Sum_reversed_Numbers.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\bin\Debug\_6.Sum_reversed_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\bin\Debug\_6.Sum_reversed_Numbers.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\obj\Debug\6. Sum reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\obj\Debug\_6.Sum_reversed_Numbers.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\6. Sum reversed Numbers\obj\Debug\_6.Sum_reversed_Numbers.pdb

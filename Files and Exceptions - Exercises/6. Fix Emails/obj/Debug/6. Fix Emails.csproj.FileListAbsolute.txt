@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\bin\Debug\_6.Fix_Emails.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\6. Fix Emails.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\_6.Fix_Emails.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Files and Exceptions - Exercises\6. Fix Emails\obj\Debug\_6.Fix_Emails.pdb

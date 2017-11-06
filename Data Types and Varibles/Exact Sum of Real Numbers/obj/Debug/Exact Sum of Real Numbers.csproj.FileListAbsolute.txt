@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.pdb

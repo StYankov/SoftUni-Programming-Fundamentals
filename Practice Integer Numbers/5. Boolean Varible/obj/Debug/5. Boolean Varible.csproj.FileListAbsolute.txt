@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\5. Boolean Varible\bin\Debug\_5.Boolean_Varible.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\5. Boolean Varible\bin\Debug\_5.Boolean_Varible.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\5. Boolean Varible\bin\Debug\_5.Boolean_Varible.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\5. Boolean Varible\obj\Debug\_5.Boolean_Varible.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\5. Boolean Varible\obj\Debug\_5.Boolean_Varible.pdb

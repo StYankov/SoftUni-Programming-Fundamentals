@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\bin\Debug\Data Types and Variables.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\bin\Debug\Data Types and Variables.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\bin\Debug\Data Types and Variables.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\obj\Debug\1. Practive Integer Numbers.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\obj\Debug\Data Types and Variables.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\Data Types and Variables\obj\Debug\Data Types and Variables.pdb

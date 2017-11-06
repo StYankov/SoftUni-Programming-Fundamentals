@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\bin\Debug\_1.Count_Working_Days.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\obj\Debug\1. Count Working Days.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Objects and Classes\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb

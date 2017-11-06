@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\bin\Debug\_1.Charity_Marathon.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\bin\Debug\_1.Charity_Marathon.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\bin\Debug\_1.Charity_Marathon.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\obj\Debug\1. Charity Marathon.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\obj\Debug\_1.Charity_Marathon.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\1. Charity Marathon\obj\Debug\_1.Charity_Marathon.pdb

@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\bin\Debug\_5.Hand_of_Cards.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\bin\Debug\_5.Hand_of_Cards.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\bin\Debug\_5.Hand_of_Cards.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\obj\Debug\_5.Hand_of_Cards.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\obj\Debug\_5.Hand_of_Cards.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Dictionaries, Lambada, LINQ\5. Hand of Cards\obj\Debug\5. Hand of Cards.csprojResolveAssemblyReference.cache

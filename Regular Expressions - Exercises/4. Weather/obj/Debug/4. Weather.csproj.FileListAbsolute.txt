@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\bin\Debug\_4.Weather.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\bin\Debug\_4.Weather.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\bin\Debug\_4.Weather.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\obj\Debug\4. Weather.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\obj\Debug\_4.Weather.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\4. Weather\obj\Debug\_4.Weather.pdb

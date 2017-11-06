@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\bin\Debug\_3.Rage_Quit.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\bin\Debug\_3.Rage_Quit.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\bin\Debug\_3.Rage_Quit.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\obj\Debug\3. Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\obj\Debug\_3.Rage_Quit.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exam Preparation III\3. Rage Quit\obj\Debug\_3.Rage_Quit.pdb

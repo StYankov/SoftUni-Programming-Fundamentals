@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\obj\Debug\2. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Objects and Classes\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb

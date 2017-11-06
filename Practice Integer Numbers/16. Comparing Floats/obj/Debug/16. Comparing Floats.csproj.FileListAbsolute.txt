@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\16. Comparing Floats\obj\Debug\16. Comparing Floats.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\9. Index of Letters\bin\Debug\_9.Index_of_Letters.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\9. Index of Letters\bin\Debug\_9.Index_of_Letters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\9. Index of Letters\bin\Debug\_9.Index_of_Letters.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\9. Index of Letters\obj\Debug\_9.Index_of_Letters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\9. Index of Letters\obj\Debug\_9.Index_of_Letters.pdb

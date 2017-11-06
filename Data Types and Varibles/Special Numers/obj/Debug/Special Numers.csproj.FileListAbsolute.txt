@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\bin\Debug\Special Numers.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\bin\Debug\Special Numers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\bin\Debug\Special Numers.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\obj\Debug\Special Numers.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\obj\Debug\Special Numers.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Special Numers\obj\Debug\Special Numers.csprojResolveAssemblyReference.cache

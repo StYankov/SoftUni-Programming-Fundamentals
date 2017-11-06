@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\bin\Debug\_4.Varible_in_Hexadecimal_Format.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\bin\Debug\_4.Varible_in_Hexadecimal_Format.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\bin\Debug\_4.Varible_in_Hexadecimal_Format.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\obj\Debug\4. Varible in Hexadecimal Format.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\obj\Debug\_4.Varible_in_Hexadecimal_Format.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\4. Varible in Hexadecimal Format\obj\Debug\_4.Varible_in_Hexadecimal_Format.pdb

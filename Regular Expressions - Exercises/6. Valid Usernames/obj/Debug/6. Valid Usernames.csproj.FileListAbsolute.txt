@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\bin\Debug\_6.Valid_Usernames.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\bin\Debug\_6.Valid_Usernames.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\bin\Debug\_6.Valid_Usernames.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\obj\Debug\6. Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\obj\Debug\_6.Valid_Usernames.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Valid Usernames\obj\Debug\_6.Valid_Usernames.pdb

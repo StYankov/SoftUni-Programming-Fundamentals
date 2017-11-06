@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\bin\Debug\_4.Roli___The_Coder.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\bin\Debug\_4.Roli___The_Coder.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\bin\Debug\_4.Roli___The_Coder.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\obj\Debug\4. Roli - The Coder.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\obj\Debug\_4.Roli___The_Coder.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\4. Roli - The Coder\obj\Debug\_4.Roli___The_Coder.pdb

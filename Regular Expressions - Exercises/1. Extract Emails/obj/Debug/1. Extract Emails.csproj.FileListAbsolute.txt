@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\bin\Debug\_1.Extract_Emails.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\bin\Debug\_1.Extract_Emails.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\bin\Debug\_1.Extract_Emails.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\obj\Debug\1. Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\obj\Debug\_1.Extract_Emails.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\1. Extract Emails\obj\Debug\_1.Extract_Emails.pdb

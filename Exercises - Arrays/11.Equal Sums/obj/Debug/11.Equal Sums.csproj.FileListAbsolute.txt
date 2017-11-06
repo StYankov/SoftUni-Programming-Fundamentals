@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.pdb

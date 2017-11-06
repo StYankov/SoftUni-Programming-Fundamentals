@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\bin\Debug\_9.Reverse_Characters.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\obj\Debug\9. Reverse Characters.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\obj\Debug\_9.Reverse_Characters.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\9. Reverse Characters\obj\Debug\_9.Reverse_Characters.pdb

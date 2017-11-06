@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\bin\Debug\_2.Ladybugs.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\bin\Debug\_2.Ladybugs.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\bin\Debug\_2.Ladybugs.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\obj\Debug\_2.Ladybugs.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\obj\Debug\_2.Ladybugs.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exam Preparation II\2. Ladybugs\obj\Debug\2. Ladybugs.csprojResolveAssemblyReference.cache

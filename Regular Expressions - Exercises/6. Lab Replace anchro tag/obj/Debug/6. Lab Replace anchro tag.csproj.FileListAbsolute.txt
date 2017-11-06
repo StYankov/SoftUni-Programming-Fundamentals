@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\bin\Debug\_6.Lab_Replace_anchro_tag.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\bin\Debug\_6.Lab_Replace_anchro_tag.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\bin\Debug\_6.Lab_Replace_anchro_tag.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\obj\Debug\_6.Lab_Replace_anchro_tag.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\obj\Debug\_6.Lab_Replace_anchro_tag.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Regular Expressions - Exercises\6. Lab Replace anchro tag\obj\Debug\6. Lab Replace anchro tag.csprojResolveAssemblyReference.cache

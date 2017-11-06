@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Data Types and Varibles\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.pdb

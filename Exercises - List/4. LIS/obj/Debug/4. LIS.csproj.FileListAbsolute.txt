@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\bin\Debug\_4.LIS.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\bin\Debug\_4.LIS.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\bin\Debug\_4.LIS.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\obj\Debug\4. LIS.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\obj\Debug\_4.LIS.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\4. LIS\obj\Debug\_4.LIS.pdb

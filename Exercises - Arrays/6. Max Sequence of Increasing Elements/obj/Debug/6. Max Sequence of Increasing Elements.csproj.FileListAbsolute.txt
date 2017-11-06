@@ -1,0 +1,1 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Exercises - Arrays\6. Max Sequence of Increasing Elements\bin\Debug\_6.Max_Sequence_of_Increasing_Elements.exe.config

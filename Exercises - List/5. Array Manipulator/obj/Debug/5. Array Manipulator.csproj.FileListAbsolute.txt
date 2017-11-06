@@ -1,0 +1,6 @@
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\bin\Debug\_5.Array_Manipulator.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\obj\Debug\5. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - List\5. Array Manipulator\obj\Debug\_5.Array_Manipulator.pdb

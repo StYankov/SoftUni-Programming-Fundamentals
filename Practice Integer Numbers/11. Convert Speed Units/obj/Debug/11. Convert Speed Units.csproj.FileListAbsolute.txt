@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csprojResolveAssemblyReference.cache
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+c:\users\stoil\documents\visual studio 2015\Projects\Programming Fundamentals\Practice Integer Numbers\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb
